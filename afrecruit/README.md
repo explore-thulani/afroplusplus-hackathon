@@ -1,6 +1,6 @@
 # afrecruit
 
-A new Flutter project.
+An automated job applications app that allow matches users with jobs and applieson their behalf automatically to save internet bandwith.
 
 ## Getting Started
 
