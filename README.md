@@ -12,8 +12,8 @@
 
 ## 1. App (Client)
 	* User authentication and Registration
-	* Job posts
-	* User profile
+	* Job posts (List => {Company, Job title, Job Description, Qualifications, Requirements, keywords})
+	* User profile (List = {Name, Surname, Email, Avatar, Skills, Qualifications, keywords})
 
 ## 2. RPA (Cloud based Tool)
 	* Gets user profile
