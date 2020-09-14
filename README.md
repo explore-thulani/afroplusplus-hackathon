@@ -1,7 +1,7 @@
 # MTN Business Hack - Afro++
 
 ## Project Setup
-    - Mobile App (Afrecruit).
+    - Mobile App (Phanda Ispani).
     - Robotic Automation Tool - Easy Apply.
     - Firebase or Custom API with Database for user details.
     - Simple Admin Dashboard to post jobs and select candidates.
